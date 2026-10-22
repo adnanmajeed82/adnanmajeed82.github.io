@@ -1,2 +1,12 @@
+ 
 theme: jekyll-theme-minimal
-title: Adnan Majeed 
+
+title: Adnan Majeed
+description: AI Engineer | Data Scientist | Software Developer | Computer Science Lecturer
+
+logo: /images/adnan.jpeg
+
+show_downloads: false
+
+google_analytics:
+```
