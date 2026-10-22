@@ -25,11 +25,6 @@
 </table>
 
 ---
-
----
-
-
-
 # Adnan Majeed
 ### AI Engineer | Data Scientist | Software Developer | Computer Science Lecturer
 
