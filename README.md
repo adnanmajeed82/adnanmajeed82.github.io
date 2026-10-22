@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/adnan.jpg" alt="Adnan Majeed" width="220" />
+  <img src="images/adnan.jpeg" alt="Adnan Majeed" width="220" />
 </p>
 
 <h1 align="center">Adnan Majeed</h1>
