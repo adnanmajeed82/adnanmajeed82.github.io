@@ -7,6 +7,7 @@
 <br><br>
 <strong>Adnan Majeed</strong><br>
 AI Engineer & Data Scientist<br><br>
+  **Computer Science Lecturer | Artificial Intelligence | Business Automation**
 <a href="https://github.com/adnanmajeed82">GitHub Profile</a><br>
 <a href="https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en">Google Scholar</a><br>
 <a href="https://www.linkedin.com/in/adnan-majeed-55bb2b18/">LinkedIn</a><br>
@@ -15,12 +16,6 @@ AI Engineer & Data Scientist<br><br>
 📧 adnanmajeed82@gmail.com
 </td>
 <td valign="top">
-
-# Adnan Majeed
-
-### AI Engineer | Data Scientist | Software Developer
-
-**Computer Science Lecturer | Artificial Intelligence | Business Automation**
 
 I am a Computer Science professional specializing in Artificial Intelligence, Machine Learning, Generative AI, Python development, backend engineering, and software solutions.
 
