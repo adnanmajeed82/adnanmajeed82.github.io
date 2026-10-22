@@ -1,8 +1,8 @@
-<div align="left">
+ 
 <table>
   <tr>
     <td width="250" align="center" valign="middle">
-      <img src="images/adnan.jpeg" alt="Adnan Majeed" width="220"  align="left" style="margin-right: 25px;">/>
+      <img src="images/adnan.jpeg" alt="Adnan Majeed" width="220">/>
     </td>
     <td valign="middle">
       <h1>Adnan Majeed</h1>
@@ -23,7 +23,7 @@
     </td>
   </tr>
 </table>
-<br clear="left">
+ 
 ---
 # Adnan Majeed
 ### AI Engineer | Data Scientist | Software Developer | Computer Science Lecturer
