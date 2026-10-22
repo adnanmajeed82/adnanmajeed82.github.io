@@ -1,4 +1,23 @@
-# adnanmajeed82.github.io
+
+<p align="center">
+  <img src="images/adnan.jpg" alt="Adnan Majeed" width="220" />
+</p>
+
+<h1 align="center">Adnan Majeed</h1>
+
+<p align="center">
+  <strong>AI Engineer | Data Scientist | Software Developer | Computer Science Lecturer</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adnanmajeed82">GitHub</a> |
+  <a href="https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en">Google Scholar</a> |
+  <a href="https://www.linkedin.com/in/adnan-majeed-55bb2b18/">LinkedIn</a> |
+  <a href="https://orcid.org/0000-0002-9625-3648">ORCID</a>
+</p>
+
+---
+
 
 
 # Adnan Majeed
