@@ -1,20 +1,30 @@
 
-<p align="center">
-  <img src="images/adnan.jpeg" alt="Adnan Majeed" width="220" />
-</p>
+<table>
+  <tr>
+    <td width="250" align="center" valign="middle">
+      <img src="images/adnan.jpeg" alt="Adnan Majeed" width="220" />
+    </td>
+    <td valign="middle">
+      <h1>Adnan Majeed</h1>
+      <h3>AI Engineer | Data Scientist | Software Developer</h3>
+      <p>
+        Computer Science Lecturer | AI & Business Automation
+      </p>
+      <p>
+        <a href="https://github.com/adnanmajeed82">GitHub</a> |
+        <a href="https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en">Google Scholar</a> |
+        <a href="https://www.linkedin.com/in/adnan-majeed-55bb2b18/">LinkedIn</a> |
+        <a href="https://orcid.org/0000-0002-9625-3648">ORCID</a>
+      </p>
+      <p>
+        📍 Lahore, Pakistan<br/>
+        📧 adnanmajeed82@gmail.com
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">Adnan Majeed</h1>
-
-<p align="center">
-  <strong>AI Engineer | Data Scientist | Software Developer | Computer Science Lecturer</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/adnanmajeed82">GitHub</a> |
-  <a href="https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en">Google Scholar</a> |
-  <a href="https://www.linkedin.com/in/adnan-majeed-55bb2b18/">LinkedIn</a> |
-  <a href="https://orcid.org/0000-0002-9625-3648">ORCID</a>
-</p>
+---
 
 ---
 
