@@ -252,4 +252,4 @@ My mission is to combine Artificial Intelligence, software engineering, research
 
 ---
 
-*© Adnan Majeed | Lahore, Pakistan*
+*© Adnan Majeed | Lahore, Pakistan* +92 320 9422680  
