@@ -1,39 +1,31 @@
-
 # Profile
 
 **AI Engineer | Data Scientist | Software Developer**
 
-[🏠 Home](#adnan-majeed) · [👨‍💻 About](#-professional-summary) · [🎓 Education](#-education) · [🏢 Experience](#professional-experience) · [🔬 Research](#-research-interests) · [🚀 Services](#-software-solutions--services) · [🛠️ Skills](#️-technical-skills) · [📂 Projects](#-featured-projects) · [📬 Contact](#-contact)
+[🏠 Home](#adnan-majeed) · [👨‍💻 About](#-professional-summary) · [🎓 Education](#-education) · [🏢 Experience](#professional-experience) · [🔬 Research](#-research-interests) · [🚀 Services](#-software-solutions--services) · [🛠️ Skills](#-technical-skills) · [📂 Projects](#-featured-projects) · [📬 Contact](#-contact)
 
 ---
 
-
-
----
 <div align="left">
-<table border="0">
-<tr>
-<td width="250" valign="top" align="left">
-
-<br><br>
-<strong>Adnan Majeed</strong><br>
-
-<a href="https://github.com/adnanmajeed82">GitHub Profile</a><br>
-<a href="https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en">Google Scholar</a><br>
-<a href="https://www.linkedin.com/in/adnan-majeed-55bb2b18/">LinkedIn</a><br>
-<a href="https://orcid.org/0000-0002-9625-3648">ORCID</a><br><br>
-📍 Lahore, Pakistan<br>
-📧 adnanmajeed82@gmail.com
-</td>
-<td valign="top">
-
-I am a Computer Science professional specializing in Artificial Intelligence, Machine Learning, Generative AI, Python development, backend engineering, and software solutions.
-
-My interests include developing intelligent applications, building scalable APIs, automating business processes, conducting applied research, and transforming innovative ideas into practical software products.
-
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td width="250" valign="top" align="left">
+        <br><br>
+        <strong>Adnan Majeed</strong><br>
+        <a href="https://github.com/adnanmajeed82">GitHub Profile</a><br>
+        <a href="https://scholar.google.com/citations?user=KprstfQAAAAJ&amp;hl=en">Google Scholar</a><br>
+        <a href="https://www.linkedin.com/in/adnan-majeed-55bb2b18/">LinkedIn</a><br>
+        <a href="https://orcid.org/0000-0002-9625-3648">ORCID</a><br><br>
+        📍 Lahore, Pakistan<br>
+        📧 <a href="mailto:adnanmajeed82@gmail.com">adnanmajeed82@gmail.com</a>
+      </td>
+      <td valign="top">
+        I am a Computer Science professional specializing in Artificial Intelligence, Machine Learning, Generative AI, Python development, backend engineering, and software solutions.
+        <br><br>
+        My interests include developing intelligent applications, building scalable APIs, automating business processes, conducting applied research, and transforming innovative ideas into practical software products.
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -60,19 +52,25 @@ My work and interests span:
 ## 🎓 Education
 
 ### MPhil in Computer Science
+
 **Hajvery University, Lahore, Pakistan**
+
 - Year: 2016
 
 ### Master of Computer Science (MCS)
+
 **Virtual University of Pakistan**
+
 - Duration: 2010–2013
 
 ---
 
-## 🏛️ Professional & Teaching Experience
+## Professional Experience
 
 ### Lecturer / Computer Science Teaching
+
 **Minhaj University Lahore**
+
 *March 2026 – October 2026*
 
 - Teaching and mentoring Computer Science students.
@@ -81,7 +79,9 @@ My work and interests span:
 - Encouraging research writing and industry-oriented learning.
 
 ### Computer Science Teaching
+
 **Lahore Leads University**
+
 *2023–2025*
 
 - Teaching undergraduate Computer Science students.
@@ -89,14 +89,18 @@ My work and interests span:
 - Guiding students in practical assignments and software projects.
 
 ### Technical Training & Education
+
 **Hunar Foundation**
+
 *2022–2023*
 
 - Supporting technical and skills-based learning.
 - Encouraging practical computing and problem-solving.
 
 ### Academic & Teaching Experience
+
 **Beaconhouse National University (BNU)**
+
 *2012–2020*
 
 - Supporting academic teaching and computing-related learning.
@@ -131,6 +135,7 @@ Explore my research publications and citations through my professional profiles.
 ## 🚀 Software Solutions & Services
 
 ### 🤖 AI & Generative AI
+
 - AI chatbot development
 - Customer support assistants
 - Generative AI applications
@@ -139,12 +144,14 @@ Explore my research publications and citations through my professional profiles.
 - AI agent prototypes
 
 ### ⚙️ Business Automation
+
 - Business workflow automation
 - Automated data processing and reporting
 - Customer inquiry management
 - AI-assisted business operations
 
 ### 🌐 Web Development
+
 - Custom web applications
 - Business management systems
 - Student management systems
@@ -152,6 +159,7 @@ Explore my research publications and citations through my professional profiles.
 - Database-driven applications
 
 ### 🔌 Backend & API Development
+
 - Django and Django REST Framework
 - FastAPI development
 - REST API design and integration
@@ -160,6 +168,7 @@ Explore my research publications and citations through my professional profiles.
 - API documentation and testing
 
 ### ☁️ Cloud & DevOps
+
 - Docker-based application packaging
 - Application deployment
 - CI/CD workflows
@@ -167,6 +176,7 @@ Explore my research publications and citations through my professional profiles.
 - Software delivery support
 
 ### 📊 Data Science & Machine Learning
+
 - Data cleaning and preprocessing
 - Exploratory data analysis
 - Machine learning prototypes
@@ -249,7 +259,7 @@ I welcome opportunities to collaborate with researchers, universities, startups,
 - **Google Scholar:** [Research Profile](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
 - **LinkedIn:** [Adnan Majeed](https://www.linkedin.com/in/adnan-majeed-55bb2b18/)
 - **ORCID:** [0000-0002-9625-3648](https://orcid.org/0000-0002-9625-3648)
-- **Mobile:** 0320 9422680  [whatsAPP]
+- **Mobile:** 0320 9422680 (WhatsApp)
 
 ---
 
@@ -263,4 +273,4 @@ My mission is to combine Artificial Intelligence, software engineering, research
 
 ---
 
-*© Adnan Majeed | Lahore, Pakistan* +92 320 9422680  
+*© Adnan Majeed | Lahore, Pakistan | +92 320 9422680*
