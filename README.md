@@ -1,5 +1,5 @@
 
-# Adnan Majeed
+# Profile
 
 **AI Engineer | Data Scientist | Software Developer**
 
