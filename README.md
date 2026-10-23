@@ -1,3 +1,18 @@
+<div align="center">
+[Home](#adnan-majeed) ·
+[About](#-professional-summary) ·
+[Education](#-education) ·
+[Experience](#-professional--teaching-experience) ·
+[Research](#-research-interests) ·
+[Services](#-software-solutions--services) ·
+[Skills](#️-technical-skills) ·
+[Projects](#-featured-projects) ·
+[Teaching](#-teaching--knowledge-sharing) ·
+[Contact](#-contact)
+
+</div>
+
+---
 <div align="left">
 <table border="0">
 <tr>
