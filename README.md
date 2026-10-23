@@ -1,16 +1,13 @@
-<div align="center">
-[Home](#adnan-majeed) ·
-[About](#-professional-summary) ·
-[Education](#-education) ·
-[Experience](#-professional--teaching-experience) ·
-[Research](#-research-interests) ·
-[Services](#-software-solutions--services) ·
-[Skills](#️-technical-skills) ·
-[Projects](#-featured-projects) ·
-[Teaching](#-teaching--knowledge-sharing) ·
-[Contact](#-contact)
 
-</div>
+# Adnan Majeed
+
+**AI Engineer | Data Scientist | Software Developer**
+
+[🏠 Home](#adnan-majeed) · [👨‍💻 About](#-professional-summary) · [🎓 Education](#-education) · [🏢 Experience](#-professional--teaching-experience) · [🔬 Research](#-research-interests) · [🚀 Services](#-software-solutions--services) · [🛠️ Skills](#️-technical-skills) · [📂 Projects](#-featured-projects) · [📬 Contact](#-contact)
+
+---
+
+
 
 ---
 <div align="left">
