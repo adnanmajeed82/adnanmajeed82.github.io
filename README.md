@@ -3,7 +3,7 @@
 
 **AI Engineer | Data Scientist | Software Developer**
 
-[🏠 Home](#adnan-majeed) · [👨‍💻 About](#-professional-summary) · [🎓 Education](#-education) · [🏢 Experience](#-professional--teaching-experience) · [🔬 Research](#-research-interests) · [🚀 Services](#-software-solutions--services) · [🛠️ Skills](#️-technical-skills) · [📂 Projects](#-featured-projects) · [📬 Contact](#-contact)
+[🏠 Home](#adnan-majeed) · [👨‍💻 About](#-professional-summary) · [🎓 Education](#-education) · [🏢 Experience](#professional-experience) · [🔬 Research](#-research-interests) · [🚀 Services](#-software-solutions--services) · [🛠️ Skills](#️-technical-skills) · [📂 Projects](#-featured-projects) · [📬 Contact](#-contact)
 
 ---
 
