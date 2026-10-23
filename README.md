@@ -238,7 +238,7 @@ I welcome opportunities to collaborate with researchers, universities, startups,
 - **Google Scholar:** [Research Profile](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
 - **LinkedIn:** [Adnan Majeed](https://www.linkedin.com/in/adnan-majeed-55bb2b18/)
 - **ORCID:** [0000-0002-9625-3648](https://orcid.org/0000-0002-9625-3648)
-- **Mobile:** 0320 9422680
+- **Mobile:** 0320 9422680  [whatsAPP]
 
 ---
 
