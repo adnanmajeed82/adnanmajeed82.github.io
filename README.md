@@ -7,7 +7,7 @@
 ---
 
 <div align="left">
-  <title>QuibitX Lahore | AI Chatbots & Business Automation</title>
+ 
   <meta name="description" content="QuibitX provides AI chatbot development, Python applications, FastAPI solutions and business process automation for businesses in Sharaqpur Road Lahore and across Pakistan.">
   <table>
     <tr>
