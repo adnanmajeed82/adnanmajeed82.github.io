@@ -132,7 +132,7 @@ Explore my research publications and citations through my professional profiles.
 
 ---
 
-## 🚀 Software Solutions & Services
+## 🚀 Software Solutions & Services QuibitX 
 
 ### 🤖 AI & Generative AI
 
@@ -150,7 +150,7 @@ Explore my research publications and citations through my professional profiles.
 - Customer inquiry management
 - AI-assisted business operations
 
-### 🌐 Web Development
+### 🌐 QuibitX Web Development
 
 - Custom web applications
 - Business management systems
@@ -158,7 +158,7 @@ Explore my research publications and citations through my professional profiles.
 - Learning Management Systems (LMS)
 - Database-driven applications
 
-### 🔌 Backend & API Development
+### 🔌 QuibitX Backend & API Development
 
 - Django and Django REST Framework
 - FastAPI development
@@ -167,7 +167,7 @@ Explore my research publications and citations through my professional profiles.
 - Database integration
 - API documentation and testing
 
-### ☁️ Cloud & DevOps
+### ☁️ QuibitX Cloud & DevOps
 
 - Docker-based application packaging
 - Application deployment
@@ -175,7 +175,7 @@ Explore my research publications and citations through my professional profiles.
 - Cloud integration
 - Software delivery support
 
-### 📊 Data Science & Machine Learning
+### 📊 QuibitX Data Science & Machine Learning
 
 - Data cleaning and preprocessing
 - Exploratory data analysis
@@ -183,6 +183,7 @@ Explore my research publications and citations through my professional profiles.
 - Predictive analytics
 - Data visualization
 - Python-based analytical applications
+- Linkedin Profile https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true
 
 ---
 
