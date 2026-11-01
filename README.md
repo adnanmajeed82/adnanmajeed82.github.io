@@ -129,7 +129,11 @@ Explore my research publications and citations through my professional profiles.
 
 - [Google Scholar — Publications and Citations](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
 - [ORCID Researcher Profile](https://orcid.org/0000-0002-9625-3648)
+  
+## Connect with QuibitX
 
+- **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
+- **Website:** [QuibitX](https://adnanmajeed82.github.io/)
 ---
 
 ## 🚀 Software Solutions & Services QuibitX 
@@ -183,7 +187,10 @@ Explore my research publications and citations through my professional profiles.
 - Predictive analytics
 - Data visualization
 - Python-based analytical applications
-- Linkedin Profile https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true
+## Connect with QuibitX
+
+- **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
+- **Website:** [QuibitX](https://adnanmajeed82.github.io/)
 
 ---
 
@@ -261,7 +268,11 @@ I welcome opportunities to collaborate with researchers, universities, startups,
 - **LinkedIn:** [Adnan Majeed](https://www.linkedin.com/in/adnan-majeed-55bb2b18/)
 - **ORCID:** [0000-0002-9625-3648](https://orcid.org/0000-0002-9625-3648)
 - **Mobile:** 0320 9422680 (WhatsApp)
+  
+## Connect with QuibitX
 
+- **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
+- **Website:** [QuibitX](https://adnanmajeed82.github.io/)
 ---
 
 ## 🌟 Professional Mission
