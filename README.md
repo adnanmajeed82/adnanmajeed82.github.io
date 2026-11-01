@@ -7,6 +7,8 @@
 ---
 
 <div align="left">
+  <title>QuibitX Lahore | AI Chatbots & Business Automation</title>
+  <meta name="description" content="QuibitX provides AI chatbot development, Python applications, FastAPI solutions and business process automation for businesses in Sharaqpur Road Lahore and across Pakistan.">
   <table>
     <tr>
       <td width="250" valign="top" align="left">
@@ -134,6 +136,7 @@ Explore my research publications and citations through my professional profiles.
 
 - **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
 - **Website:** [QuibitX](https://adnanmajeed82.github.io/)
+  
 ---
 
 ## 🚀 Software Solutions & Services QuibitX 
