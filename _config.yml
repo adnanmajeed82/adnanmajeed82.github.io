@@ -1,6 +1,9 @@
 
+
 theme: jekyll-theme-minimal
-title: "Adnan Majeed"
-description: "AI Engineer | Data Scientist | Software Developer | Computer Science Lecturer"
+title: "QuibitX | AI Chatbots & Software Development Lahore"
+description: "QuibitX provides AI chatbot development, Python, Django, FastAPI, web applications and business automation services in Lahore, Pakistan."
 logo: /images/adnan.jpeg
 show_downloads: false
+url: "https://adnanmajeed82.github.io"
+baseurl: ""
