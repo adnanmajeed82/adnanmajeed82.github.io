@@ -140,6 +140,31 @@ Explore my research publications and citations through my professional profiles.
 - [Google Scholar — Publications and Citations](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
 - [ORCID Researcher Profile](https://orcid.org/0000-0002-9625-3648)
   
+## 📚 Selected Research Publications
+
+Here are five selected recent research publications:
+
+1. **Django REST Framework Backend API Microservice Architecture for Enterprise Business Solution and Cloud Kafka Integrations**  
+   *Spectrum of Engineering Sciences, 2026*
+
+2. **AeroStrike: A Real-Time AI-Driven Framework for Wireless Network Threat Detection and Exploitation**  
+   *Spectrum of Engineering Sciences, 2026*
+
+3. **Design and Implementation of an Android-Based Gym Assistance Application Using Java and XML / Java Blockchain Mobile App**  
+   *Spectrum of Engineering Sciences, 2025*
+
+4. **Digital Image Restoration & Restoration of Burned Image & Documents Using Digital Image Processing: Possibilities and Limitations**  
+   *Physical Education Journal of Health and Social Sciences, 2025*
+
+5. **Efficient Data Storage and Retrieval: A Proportional Study of Pigeonhole Principle, Hashing Collisions, and Heap Priority Indexing**  
+   *Spectrum of Engineering Sciences, 2025*
+
+### 🔎 View All Research Publications
+
+Explore my complete research publication list, citations, and academic profile on Google Scholar:
+
+[**View All Publications on Google Scholar →**](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
+
 ## Connect with QuibitX
 
 - **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
