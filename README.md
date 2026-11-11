@@ -2,8 +2,8 @@
 **AI Engineer | Data Scientist | Software Developer**
 Lahore, Pakistan
 
-[LinkedIn](https://www.linkedin.com/in/adnan-majeed-55bb2b18/) · [GitHub](https://github.com/adnanmajeed82) · [Google Scholar](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9625-3648) · [Email Me](mailto:adnanmajeed82@gmail.com)
-</div>
+[LinkedIn](https://www.linkedin.com/in/adnan-majeed-55bb2b18/) · [GitHub](https://github.com/adnanmajeed82) · [Google Scholar](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9625-3648) · 
+<a href="mailto:adnanmajeed82@gmail.com">✉ Contact Me</a>
 
 ## About
 Computer Science professional focused on AI, machine learning, Generative AI, Python engineering, backend development, data science, and academic teaching. I build practical software, scalable APIs, and automation solutions.
