@@ -2,8 +2,7 @@
 **AI Engineer | Data Scientist | Software Developer**
 Lahore, Pakistan
 
-[LinkedIn](https://www.linkedin.com/in/adnan-majeed-55bb2b18/) · [GitHub](https://github.com/adnanmajeed82) · [Google Scholar](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9625-3648) · [Email](mailto:adnanmajeed82@gmail.com)
-
+[LinkedIn](https://www.linkedin.com/in/adnan-majeed-55bb2b18/) · [GitHub](https://github.com/adnanmajeed82) · [Google Scholar](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9625-3648) · [Email Me](mailto:adnanmajeed82@gmail.com)
 </div>
 
 ## About
@@ -48,7 +47,7 @@ Areas: AI chatbots, intelligent assistants, business automation, Python applicat
 Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing
 from pathlib import Path
 
-section = """## QuibitX | Software Solutions
+## QuibitX | Software Solutions
 **Build. Automate. Scale.**
 
 QuibitX creates practical digital solutions that help businesses work smarter and grow.
@@ -63,7 +62,7 @@ QuibitX creates practical digital solutions that help businesses work smarter an
 | **Data & Machine Learning** | Data analytics, predictive models and visual dashboards |
 
 **Connect with QuibitX:** [LinkedIn](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true) · [Website](https://adnanmajeed82.github.io/)
-"""
+
 ## QuibitX
 **Build · Automate · Scale**
 
@@ -78,7 +77,4 @@ QuibitX delivers AI chatbots, web applications, backend APIs, and business autom
 - **GitHub:** [adnanmajeed82](https://github.com/adnanmajeed82)
 - **Google Scholar:** [Research profile](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
 - **ORCID:** [0000-0002-9625-3648](https://orcid.org/0000-0002-9625-3648)
-
----
-<div align="center">© Adnan Majeed · Lahore, Pakistan</div>
 
