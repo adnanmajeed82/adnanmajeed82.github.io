@@ -1,7 +1,3 @@
-from pathlib import Path
-
-content = """<div align="center">
-
 # Adnan Majeed
 **AI Engineer | Data Scientist | Software Developer**
 Lahore, Pakistan
