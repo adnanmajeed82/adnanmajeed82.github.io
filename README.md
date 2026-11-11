@@ -4,8 +4,6 @@
 
 [🏠 Home](#adnan-majeed) · [👨‍💻 About](#-professional-summary) · [🎓 Education](#-education) · [🏢 Experience](#professional-experience) · [🔬 Research](#-research-interests) · [🚀 Services](#-software-solutions--services) · [🛠️ Skills](#-technical-skills) · [📂 Projects](#-featured-projects) · [📬 Contact](#-contact)
 
----
-
 <div align="left">
  
   <meta name="description" content="QuibitX provides AI chatbot development, Python applications, FastAPI solutions and business process automation for businesses in Sharaqpur Road Lahore and across Pakistan.">
@@ -30,8 +28,6 @@
   </table>
 </div>
 
----
-
 ## 👨‍💻 Professional Summary
 
 Computer Science professional with experience in academic teaching, research interests, AI engineering, Python programming, web application development, API architecture, and data science.
@@ -49,77 +45,49 @@ My work and interests span:
 - Academic Research and Technical Writing
 - Industry-Oriented Student Project Development
 
----
-
 ## 🎓 Education
-
 ### MPhil in Computer Science
-
 **Hajvery University, Lahore, Pakistan**
-
 - Year: 2016
 
 ### Master of Computer Science (MCS)
-
 **Virtual University of Pakistan**
-
 - Duration: 2010–2013
 
----
-
 ## 📄 View CV
-
 Download or view my latest CV:
-
 [![View CV](https://img.shields.io/badge/View-CV-blue?style=for-the-badge&logo=adobeacrobatreader)](Adnan Majeed.pdf)
-
 [![Download CV](https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=googledrive)](Adnan Majeed.pdf)
 
 ## Professional Experience
-
 ### Lecturer / Computer Science Teaching
-
 **Minhaj University Lahore**
-
 *March 2026 – October 2026*
-
 - Teaching and mentoring Computer Science students.
 - Supporting programming, software development, and practical computing.
 - Guiding students in Python, backend APIs, AI applications, and software projects.
 - Encouraging research writing and industry-oriented learning.
 
 ### Computer Science Teaching
-
 **Lahore Leads University**
-
 *2023–2025*
-
 - Teaching undergraduate Computer Science students.
 - Supporting programming and software development activities.
 - Guiding students in practical assignments and software projects.
 
 ### Technical Training & Education
-
 **Hunar Foundation**
-
 *2022–2023*
-
 - Supporting technical and skills-based learning.
 - Encouraging practical computing and problem-solving.
 
 ### Academic & Teaching Experience
-
 **Beaconhouse National University (BNU)**
-
 *2012–2020*
-
 - Supporting academic teaching and computing-related learning.
 - Encouraging programming practice and analytical thinking.
 
----
-
 ## 🔬 Research Interests
-
 - Artificial Intelligence and Machine Learning
 - Deep Learning and Neural Networks
 - Generative AI and Large Language Models
@@ -131,51 +99,33 @@ Download or view my latest CV:
 - Data Science and Predictive Analytics
 - Software Engineering and API Architecture
 
----
-
 ## 📚 Research Publications
-
 Explore my research publications and citations through my professional profiles.
-
 - [Google Scholar — Publications and Citations](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
 - [ORCID Researcher Profile](https://orcid.org/0000-0002-9625-3648)
   
 ## 📚 Selected Research Publications
-
 Here are five selected recent research publications:
-
 1. **Django REST Framework Backend API Microservice Architecture for Enterprise Business Solution and Cloud Kafka Integrations**  
    *Spectrum of Engineering Sciences, 2026*
-
 2. **AeroStrike: A Real-Time AI-Driven Framework for Wireless Network Threat Detection and Exploitation**  
    *Spectrum of Engineering Sciences, 2026*
-
 3. **Design and Implementation of an Android-Based Gym Assistance Application Using Java and XML / Java Blockchain Mobile App**  
    *Spectrum of Engineering Sciences, 2025*
-
 4. **Digital Image Restoration & Restoration of Burned Image & Documents Using Digital Image Processing: Possibilities and Limitations**  
    *Physical Education Journal of Health and Social Sciences, 2025*
-
-5. **Efficient Data Storage and Retrieval: A Proportional Study of Pigeonhole Principle, Hashing Collisions, and Heap Priority Indexing**  
-   *Spectrum of Engineering Sciences, 2025*
-
+5. **Efficient Data Storage and Retrieval: A Proportional Study of Pigeonhole Principle, Hashing Collisions, and Heap Priority Indexing**     *Spectrum of Engineering Sciences, 2025*
 ### 🔎 View All Research Publications
-
 Explore my complete research publication list, citations, and academic profile on Google Scholar:
-
 [**View All Publications on Google Scholar →**](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
 
 ## Connect with QuibitX
-
 - **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
 - **Website:** [QuibitX](https://adnanmajeed82.github.io/)
   
----
 
 ## 🚀 Software Solutions & Services QuibitX 
-
 ### 🤖 AI & Generative AI
-
 - AI chatbot development
 - Customer support assistants
 - Generative AI applications
@@ -184,14 +134,12 @@ Explore my complete research publication list, citations, and academic profile o
 - AI agent prototypes
 
 ### ⚙️ Business Automation
-
 - Business workflow automation
 - Automated data processing and reporting
 - Customer inquiry management
 - AI-assisted business operations
 
 ### 🌐 QuibitX Web Development
-
 - Custom web applications
 - Business management systems
 - Student management systems
@@ -199,7 +147,6 @@ Explore my complete research publication list, citations, and academic profile o
 - Database-driven applications
 
 ### 🔌 QuibitX Backend & API Development
-
 - Django and Django REST Framework
 - FastAPI development
 - REST API design and integration
@@ -208,7 +155,6 @@ Explore my complete research publication list, citations, and academic profile o
 - API documentation and testing
 
 ### ☁️ QuibitX Cloud & DevOps
-
 - Docker-based application packaging
 - Application deployment
 - CI/CD workflows
@@ -216,7 +162,6 @@ Explore my complete research publication list, citations, and academic profile o
 - Software delivery support
 
 ### 📊 QuibitX Data Science & Machine Learning
-
 - Data cleaning and preprocessing
 - Exploratory data analysis
 - Machine learning prototypes
@@ -224,36 +169,23 @@ Explore my complete research publication list, citations, and academic profile o
 - Data visualization
 - Python-based analytical applications
 ## Connect with QuibitX
-
 - **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
 - **Website:** [QuibitX](https://adnanmajeed82.github.io/)
 
 ---
 
 ## 🛠️ Technical Skills
-
 **Programming:** Python, SQL, Java, JavaScript
-
 **AI & Machine Learning:** Machine Learning, Deep Learning, Generative AI, LLMs, AI Agents, Neural Networks
-
 **Frameworks:** Django, Django REST Framework, FastAPI, PyTorch, TensorFlow, scikit-learn, Hugging Face
-
 **Backend:** REST APIs, OpenAPI, JWT Authentication, Microservices
-
 **Databases:** PostgreSQL, SQLite, SQL
-
 **Tools:** Git, GitHub, Docker, Postman
-
 **Cloud & DevOps:** Application Deployment, Containerization, CI/CD Concepts
-
 **Research & Education:** Research Writing, Technical Documentation, Computer Science Education
 
----
-
 ## 📂 Featured Projects
-
 Explore my repositories for software implementations, research experiments, prototypes, and development projects.
-
 - AI Chatbots and Intelligent Assistants
 - Backend APIs and Web Applications
 - Business Automation Tools
@@ -262,13 +194,8 @@ Explore my repositories for software implementations, research experiments, prot
 - Research-Oriented Software Prototypes
 
 **Explore all repositories:** [GitHub Repositories](https://github.com/adnanmajeed82?tab=repositories)
-
----
-
 ## 👨‍🏫 Teaching & Knowledge Sharing
-
 Teaching areas include:
-
 - Python Programming
 - Object-Oriented Programming
 - Database Management Systems
@@ -279,13 +206,8 @@ Teaching areas include:
 - Software Engineering
 - Cloud Computing Fundamentals
 - Research Writing and Technical Documentation
-
----
-
 ## 🤝 Collaboration Opportunities
-
 I welcome opportunities to collaborate with researchers, universities, startups, software houses, and businesses in:
-
 - AI and Machine Learning research
 - Generative AI and agentic AI development
 - Chatbots and business automation
@@ -293,9 +215,6 @@ I welcome opportunities to collaborate with researchers, universities, startups,
 - Web application development
 - Academic and industry projects
 - Technical training and consulting
-
----
-
 ## 📬 Contact
 
 - **Email:** [adnanmajeed82@gmail.com](mailto:adnanmajeed82@gmail.com)
@@ -309,16 +228,11 @@ I welcome opportunities to collaborate with researchers, universities, startups,
 
 - **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
 - **Website:** [QuibitX](https://adnanmajeed82.github.io/)
----
 
 ## 🌟 Professional Mission
 
 **Turning Research into Practical Software Solutions**
-
 My mission is to combine Artificial Intelligence, software engineering, research, and education to develop useful digital solutions, support student development, and solve real-world business and technology problems.
-
 *Artificial Intelligence • Software Engineering • Academic Research • Innovation • Business Automation*
-
----
 
 *© Adnan Majeed | Lahore, Pakistan | +92 320 9422680*
