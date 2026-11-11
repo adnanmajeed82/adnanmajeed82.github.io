@@ -67,6 +67,14 @@ My work and interests span:
 
 ---
 
+## 📄 View CV
+
+Download or view my latest CV:
+
+[![View CV](https://img.shields.io/badge/View-CV-blue?style=for-the-badge&logo=adobeacrobatreader)](Adnan-Majeed-CV.pdf)
+
+[![Download CV](https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=googledrive)](Adnan-Majeed-CV.pdf)
+
 ## Professional Experience
 
 ### Lecturer / Computer Science Teaching
