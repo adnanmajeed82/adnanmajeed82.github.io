@@ -46,7 +46,24 @@ Areas: AI chatbots, intelligent assistants, business automation, Python applicat
 
 ## Teaching
 Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing
+from pathlib import Path
 
+section = """## QuibitX | Software Solutions
+**Build. Automate. Scale.**
+
+QuibitX creates practical digital solutions that help businesses work smarter and grow.
+
+| Service | What We Build |
+|---|---|
+| **AI & GenAI** | AI chatbots, virtual assistants, LLM apps and AI agents |
+| **Business Automation** | Workflow automation, smart reporting and customer support |
+| **Web Applications** | Custom business systems, student portals and LMS platforms |
+| **Backend & APIs** | Django, DRF, FastAPI, REST APIs and secure integrations |
+| **Cloud & DevOps** | Docker, deployment, cloud integration and CI/CD |
+| **Data & Machine Learning** | Data analytics, predictive models and visual dashboards |
+
+**Connect with QuibitX:** [LinkedIn](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true) · [Website](https://adnanmajeed82.github.io/)
+"""
 ## QuibitX
 **Build · Automate · Scale**
 
@@ -64,8 +81,4 @@ QuibitX delivers AI chatbots, web applications, backend APIs, and business autom
 
 ---
 <div align="center">© Adnan Majeed · Lahore, Pakistan</div>
-"""
-path = Path("/mnt/data/README_optimized.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created: {path}")
-print(f"Lines: {len(content.splitlines())}; characters: {len(content)}")
+
