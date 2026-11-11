@@ -1,238 +1,75 @@
-# Profile
+from pathlib import Path
 
+content = """<div align="center">
+
+# Adnan Majeed
 **AI Engineer | Data Scientist | Software Developer**
+Lahore, Pakistan
 
-[🏠 Home](#adnan-majeed) · [👨‍💻 About](#-professional-summary) · [🎓 Education](#-education) · [🏢 Experience](#professional-experience) · [🔬 Research](#-research-interests) · [🚀 Services](#-software-solutions--services) · [🛠️ Skills](#-technical-skills) · [📂 Projects](#-featured-projects) · [📬 Contact](#-contact)
+[LinkedIn](https://www.linkedin.com/in/adnan-majeed-55bb2b18/) · [GitHub](https://github.com/adnanmajeed82) · [Google Scholar](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9625-3648) · [Email](mailto:adnanmajeed82@gmail.com)
 
-<div align="left">
- 
-  <meta name="description" content="QuibitX provides AI chatbot development, Python applications, FastAPI solutions and business process automation for businesses in Sharaqpur Road Lahore and across Pakistan.">
-  <table>
-    <tr>
-      <td width="250" valign="top" align="left">
-        <br><br>
-        <strong>Adnan Majeed</strong><br>
-        <a href="https://github.com/adnanmajeed82">GitHub Profile</a><br>
-        <a href="https://scholar.google.com/citations?user=KprstfQAAAAJ&amp;hl=en">Google Scholar</a><br>
-        <a href="https://www.linkedin.com/in/adnan-majeed-55bb2b18/">LinkedIn</a><br>
-        <a href="https://orcid.org/0000-0002-9625-3648">ORCID</a><br><br>
-        📍 Lahore, Pakistan<br>
-        📧 <a href="mailto:adnanmajeed82@gmail.com">adnanmajeed82@gmail.com</a>
-      </td>
-      <td valign="top">
-        I am a Computer Science professional specializing in Artificial Intelligence, Machine Learning, Generative AI, Python development, backend engineering, and software solutions.
-        <br><br>
-        My interests include developing intelligent applications, building scalable APIs, automating business processes, conducting applied research, and transforming innovative ideas into practical software products.
-      </td>
-    </tr>
-  </table>
 </div>
 
-## 👨‍💻 Professional Summary
+## About
+Computer Science professional focused on AI, machine learning, Generative AI, Python engineering, backend development, data science, and academic teaching. I build practical software, scalable APIs, and automation solutions.
 
-Computer Science professional with experience in academic teaching, research interests, AI engineering, Python programming, web application development, API architecture, and data science.
+## CV
+[View CV](Adnan%20Majeed.pdf) · [Download CV](Adnan%20Majeed.pdf)
 
-My work and interests span:
+## Experience
+- **Minhaj University Lahore** — Lecturer, Computer Science | Mar 2026–Oct 2026
+- **Lahore Leads University** — Computer Science Teaching | 2023–2025
+- **Hunar Foundation** — Technical Training | 2022–2023
+- **Beaconhouse National University (BNU)** — Academic Teaching | 2012–2020
 
-- Artificial Intelligence and Machine Learning
-- Generative AI and Large Language Models (LLMs)
-- AI Agents and Business Process Automation
-- Python Backend Development
-- Django, Django REST Framework, and FastAPI
-- REST API Design and Integration
-- Data Science and Predictive Analytics
-- Software Engineering and Cloud Technologies
-- Academic Research and Technical Writing
-- Industry-Oriented Student Project Development
+## Education
+- **MPhil, Computer Science** — Hajvery University, 2016
+- **MCS** — Virtual University of Pakistan, 2010–2013
 
-## 🎓 Education
-### MPhil in Computer Science
-**Hajvery University, Lahore, Pakistan**
-- Year: 2016
+## Skills
+- **Programming:** Python, SQL, Java, JavaScript
+- **AI & Data:** Machine Learning, Deep Learning, Generative AI, LLMs, AI Agents, Predictive Analytics
+- **Frameworks:** Django, Django REST Framework, FastAPI, PyTorch, TensorFlow, scikit-learn, Hugging Face
+- **Backend:** REST APIs, OpenAPI, JWT, Microservices
+- **Databases & Tools:** PostgreSQL, SQLite, Git, GitHub, Docker, Postman
+- **Cloud & DevOps:** Deployment, Containerization, CI/CD
 
-### Master of Computer Science (MCS)
-**Virtual University of Pakistan**
-- Duration: 2010–2013
+## Selected Publications
+1. **Django REST Framework Backend API Microservice Architecture for Enterprise Business Solution and Cloud Kafka Integrations** — *Spectrum of Engineering Sciences, 2026*
+2. **AeroStrike: A Real-Time AI-Driven Framework for Wireless Network Threat Detection and Exploitation** — *Spectrum of Engineering Sciences, 2026*
+3. **Design and Implementation of an Android-Based Gym Assistance Application Using Java and XML / Java Blockchain Mobile App** — *Spectrum of Engineering Sciences, 2025*
+4. **Digital Image Restoration & Restoration of Burned Image & Documents Using Digital Image Processing: Possibilities and Limitations** — *Physical Education Journal of Health and Social Sciences, 2025*
+5. **Efficient Data Storage and Retrieval: A Proportional Study of Pigeonhole Principle, Hashing Collisions, and Heap Priority Indexing** — *Spectrum of Engineering Sciences, 2025*
 
-## 📄 View CV
-Download or view my latest CV:
-[![View CV](https://img.shields.io/badge/View-CV-blue?style=for-the-badge&logo=adobeacrobatreader)](Adnan Majeed.pdf)
-[![Download CV](https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=googledrive)](Adnan Majeed.pdf)
+[View all publications and citations on Google Scholar](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
 
-## Professional Experience
-### Lecturer / Computer Science Teaching
-**Minhaj University Lahore**
-*March 2026 – October 2026*
-- Teaching and mentoring Computer Science students.
-- Supporting programming, software development, and practical computing.
-- Guiding students in Python, backend APIs, AI applications, and software projects.
-- Encouraging research writing and industry-oriented learning.
+## Featured Work
+Areas: AI chatbots, intelligent assistants, business automation, Python applications, Django/FastAPI services, REST APIs, educational systems, and machine learning.
 
-### Computer Science Teaching
-**Lahore Leads University**
-*2023–2025*
-- Teaching undergraduate Computer Science students.
-- Supporting programming and software development activities.
-- Guiding students in practical assignments and software projects.
+[Explore GitHub repositories](https://github.com/adnanmajeed82?tab=repositories)
 
-### Technical Training & Education
-**Hunar Foundation**
-*2022–2023*
-- Supporting technical and skills-based learning.
-- Encouraging practical computing and problem-solving.
+## Teaching
+Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing
 
-### Academic & Teaching Experience
-**Beaconhouse National University (BNU)**
-*2012–2020*
-- Supporting academic teaching and computing-related learning.
-- Encouraging programming practice and analytical thinking.
+## QuibitX
+**Build · Automate · Scale**
 
-## 🔬 Research Interests
-- Artificial Intelligence and Machine Learning
-- Deep Learning and Neural Networks
-- Generative AI and Large Language Models
-- Agentic AI and Autonomous AI Systems
-- AI Agents for Business Automation
-- Intelligent Decision Support Systems
-- Explainable Artificial Intelligence
-- Cloud Computing and Distributed Systems
-- Data Science and Predictive Analytics
-- Software Engineering and API Architecture
+QuibitX delivers AI chatbots, web applications, backend APIs, and business automation.
 
-## 📚 Research Publications
-Explore my research publications and citations through my professional profiles.
-- [Google Scholar — Publications and Citations](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
-- [ORCID Researcher Profile](https://orcid.org/0000-0002-9625-3648)
-  
-## 📚 Selected Research Publications
-Here are five selected recent research publications:
-1. **Django REST Framework Backend API Microservice Architecture for Enterprise Business Solution and Cloud Kafka Integrations**  
-   *Spectrum of Engineering Sciences, 2026*
-2. **AeroStrike: A Real-Time AI-Driven Framework for Wireless Network Threat Detection and Exploitation**  
-   *Spectrum of Engineering Sciences, 2026*
-3. **Design and Implementation of an Android-Based Gym Assistance Application Using Java and XML / Java Blockchain Mobile App**  
-   *Spectrum of Engineering Sciences, 2025*
-4. **Digital Image Restoration & Restoration of Burned Image & Documents Using Digital Image Processing: Possibilities and Limitations**  
-   *Physical Education Journal of Health and Social Sciences, 2025*
-5. **Efficient Data Storage and Retrieval: A Proportional Study of Pigeonhole Principle, Hashing Collisions, and Heap Priority Indexing**     *Spectrum of Engineering Sciences, 2025*
-### 🔎 View All Research Publications
-Explore my complete research publication list, citations, and academic profile on Google Scholar:
-[**View All Publications on Google Scholar →**](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
+[QuibitX on LinkedIn](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true) · [Portfolio](https://adnanmajeed82.github.io/)
 
-## Connect with QuibitX
-- **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
-- **Website:** [QuibitX](https://adnanmajeed82.github.io/)
-  
-
-## 🚀 Software Solutions & Services QuibitX 
-### 🤖 AI & Generative AI
-- AI chatbot development
-- Customer support assistants
-- Generative AI applications
-- LLM integrations
-- AI-powered document assistants
-- AI agent prototypes
-
-### ⚙️ Business Automation
-- Business workflow automation
-- Automated data processing and reporting
-- Customer inquiry management
-- AI-assisted business operations
-
-### 🌐 QuibitX Web Development
-- Custom web applications
-- Business management systems
-- Student management systems
-- Learning Management Systems (LMS)
-- Database-driven applications
-
-### 🔌 QuibitX Backend & API Development
-- Django and Django REST Framework
-- FastAPI development
-- REST API design and integration
-- JWT authentication
-- Database integration
-- API documentation and testing
-
-### ☁️ QuibitX Cloud & DevOps
-- Docker-based application packaging
-- Application deployment
-- CI/CD workflows
-- Cloud integration
-- Software delivery support
-
-### 📊 QuibitX Data Science & Machine Learning
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Machine learning prototypes
-- Predictive analytics
-- Data visualization
-- Python-based analytical applications
-## Connect with QuibitX
-- **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
-- **Website:** [QuibitX](https://adnanmajeed82.github.io/)
+## Contact
+- **Email:** [adnanmajeed82@gmail.com](mailto:adnanmajeed82@gmail.com)
+- **WhatsApp:** [+92 320 9422680](https://wa.me/923209422680)
+- **LinkedIn:** [Adnan Majeed](https://www.linkedin.com/in/adnan-majeed-55bb2b18/)
+- **GitHub:** [adnanmajeed82](https://github.com/adnanmajeed82)
+- **Google Scholar:** [Research profile](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
+- **ORCID:** [0000-0002-9625-3648](https://orcid.org/0000-0002-9625-3648)
 
 ---
-
-## 🛠️ Technical Skills
-**Programming:** Python, SQL, Java, JavaScript
-**AI & Machine Learning:** Machine Learning, Deep Learning, Generative AI, LLMs, AI Agents, Neural Networks
-**Frameworks:** Django, Django REST Framework, FastAPI, PyTorch, TensorFlow, scikit-learn, Hugging Face
-**Backend:** REST APIs, OpenAPI, JWT Authentication, Microservices
-**Databases:** PostgreSQL, SQLite, SQL
-**Tools:** Git, GitHub, Docker, Postman
-**Cloud & DevOps:** Application Deployment, Containerization, CI/CD Concepts
-**Research & Education:** Research Writing, Technical Documentation, Computer Science Education
-
-## 📂 Featured Projects
-Explore my repositories for software implementations, research experiments, prototypes, and development projects.
-- AI Chatbots and Intelligent Assistants
-- Backend APIs and Web Applications
-- Business Automation Tools
-- Machine Learning and Data Science
-- Educational Software
-- Research-Oriented Software Prototypes
-
-**Explore all repositories:** [GitHub Repositories](https://github.com/adnanmajeed82?tab=repositories)
-## 👨‍🏫 Teaching & Knowledge Sharing
-Teaching areas include:
-- Python Programming
-- Object-Oriented Programming
-- Database Management Systems
-- Web Application Development
-- Django and REST API Development
-- Machine Learning and Deep Learning
-- Generative AI and AI Agents
-- Software Engineering
-- Cloud Computing Fundamentals
-- Research Writing and Technical Documentation
-## 🤝 Collaboration Opportunities
-I welcome opportunities to collaborate with researchers, universities, startups, software houses, and businesses in:
-- AI and Machine Learning research
-- Generative AI and agentic AI development
-- Chatbots and business automation
-- Python backend and API engineering
-- Web application development
-- Academic and industry projects
-- Technical training and consulting
-## 📬 Contact
-
-- **Email:** [adnanmajeed82@gmail.com](mailto:adnanmajeed82@gmail.com)
-- **GitHub:** [adnanmajeed82](https://github.com/adnanmajeed82)
-- **Google Scholar:** [Research Profile](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en)
-- **LinkedIn:** [Adnan Majeed](https://www.linkedin.com/in/adnan-majeed-55bb2b18/)
-- **ORCID:** [0000-0002-9625-3648](https://orcid.org/0000-0002-9625-3648)
-- **Mobile:** 0320 9422680 (WhatsApp)
-  
-## Connect with QuibitX
-
-- **LinkedIn Company Page:** [QuibitX Lahore](https://www.linkedin.com/company/quibitx-lahore/home/?viewAsMember=true)
-- **Website:** [QuibitX](https://adnanmajeed82.github.io/)
-
-## 🌟 Professional Mission
-
-**Turning Research into Practical Software Solutions**
-My mission is to combine Artificial Intelligence, software engineering, research, and education to develop useful digital solutions, support student development, and solve real-world business and technology problems.
-*Artificial Intelligence • Software Engineering • Academic Research • Innovation • Business Automation*
-
-*© Adnan Majeed | Lahore, Pakistan | +92 320 9422680*
+<div align="center">© Adnan Majeed · Lahore, Pakistan</div>
+"""
+path = Path("/mnt/data/README_optimized.md")
+path.write_text(content, encoding="utf-8")
+print(f"Created: {path}")
+print(f"Lines: {len(content.splitlines())}; characters: {len(content)}")
