@@ -45,8 +45,7 @@ Areas: AI chatbots, intelligent assistants, business automation, Python applicat
 
 ## Teaching
 Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing
-from pathlib import Path
-
+ 
 ## QuibitX | Software Solutions
 **Build. Automate. Scale.**
 
