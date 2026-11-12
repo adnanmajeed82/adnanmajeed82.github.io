@@ -43,6 +43,14 @@ Areas: AI chatbots, intelligent assistants, business automation, Python applicat
 
 [Explore GitHub repositories](https://github.com/adnanmajeed82?tab=repositories)
 
+## 🎓 FYP Projects – Minhaj University Lahore
+Explore Final Year Projects (FYPs) developed and showcased by Computer Science students at Minhaj University Lahore.
+- **Project Showcase:** Student software projects and demonstrations.
+- **Technologies:** AI, Machine Learning, Web Development, Mobile Applications, and Software Engineering.
+- **Academic Contribution:** Project supervision, technical mentoring, and software development guidance.
+
+🔗 **[View FYP Projects Showcase on Facebook](https://www.facebook.com/share/p/1BYSA6G8ck/)**
+
 ## Teaching
 Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing
  
