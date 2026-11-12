@@ -60,36 +60,66 @@ Conducted academic workshops and seminars focused on practical software developm
 
 🔗 **[View Seminar: API Development in Python](https://leads.edu.pk/seminar-on-api-development-in-python/)**
 🔗
+
 <h2>🏆 Achievements & Awards – Beaconhouse National University</h2>
 
 <p>
-Recognition and academic contributions during my professional
-tenure at the School of Computer and IT, BNU Lahore.
+Professional achievements, academic contributions, university events
+and recognition during my tenure at the School of Computer and IT,
+Beaconhouse National University, Lahore.
 </p>
 
-<div style="display:grid;
-grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-gap:15px;">
+<div style="
+display:grid;
+grid-template-columns:repeat(2,minmax(0,1fr));
+gap:15px;
+margin:20px 0;
+">
 
-<img src="/award_4.jpg" alt="Award Recognition"
-style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+  <div style="border:1px solid #ddd;padding:8px;border-radius:10px;text-align:center;background:#fafafa;">
+    <img src="/award_4.jpg"
+         alt="Award presentation"
+         style="width:100%;height:160px;object-fit:contain;border-radius:7px;">
+    <p><b>Professional Recognition</b></p>
+  </div>
 
-<img src="/award_3.jpg" alt="Award Ceremony"
-style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+  <div style="border:1px solid #ddd;padding:8px;border-radius:10px;text-align:center;background:#fafafa;">
+    <img src="/award_3.jpg"
+         alt="Award ceremony"
+         style="width:100%;height:160px;object-fit:contain;border-radius:7px;">
+    <p><b>Academic Award Ceremony</b></p>
+  </div>
 
-<img src="/bnu_2.jpg" alt="Academic Gathering"
-style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+  <div style="border:1px solid #ddd;padding:8px;border-radius:10px;text-align:center;background:#fafafa;">
+    <img src="/bnu_2.jpg"
+         alt="University academic gathering"
+         style="width:100%;height:160px;object-fit:contain;border-radius:7px;">
+    <p><b>Academic Community</b></p>
+  </div>
 
-<img src="/bnu_1.jpg" alt="Faculty Members"
-style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+  <div style="border:1px solid #ddd;padding:8px;border-radius:10px;text-align:center;background:#fafafa;">
+    <img src="/bnu_1.jpg"
+         alt="BNU faculty"
+         style="width:100%;height:160px;object-fit:contain;border-radius:7px;">
+    <p><b>Faculty Engagement</b></p>
+  </div>
 
-<img src="/award_2.jpg" alt="BNU Farewell Souvenir"
-style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+  <div style="border:1px solid #ddd;padding:8px;border-radius:10px;text-align:center;background:#fafafa;">
+    <img src="/award_2.jpg"
+         alt="BNU farewell souvenir"
+         style="width:100%;height:160px;object-fit:contain;border-radius:7px;">
+    <p><b>BNU Farewell Souvenir – March 2021</b></p>
+  </div>
 
-<img src="/award_1.jpg" alt="University Appreciation"
-style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+  <div style="border:1px solid #ddd;padding:8px;border-radius:10px;text-align:center;background:#fafafa;">
+    <img src="/award_1.jpg"
+         alt="University appreciation"
+         style="width:100%;height:160px;object-fit:contain;border-radius:7px;">
+    <p><b>University Appreciation</b></p>
+  </div>
 
 </div>
+
 ## Teaching
 Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing
  
