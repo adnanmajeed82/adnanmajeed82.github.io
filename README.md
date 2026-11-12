@@ -60,7 +60,36 @@ Conducted academic workshops and seminars focused on practical software developm
 
 🔗 **[View Seminar: API Development in Python](https://leads.edu.pk/seminar-on-api-development-in-python/)**
 🔗
+<h2>🏆 Achievements & Awards – Beaconhouse National University</h2>
 
+<p>
+Recognition and academic contributions during my professional
+tenure at the School of Computer and IT, BNU Lahore.
+</p>
+
+<div style="display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:15px;">
+
+<img src="/award_4.jpg" alt="Award Recognition"
+style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+
+<img src="/award_3.jpg" alt="Award Ceremony"
+style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+
+<img src="/bnu_2.jpg" alt="Academic Gathering"
+style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+
+<img src="/bnu_1.jpg" alt="Faculty Members"
+style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+
+<img src="/award_2.jpg" alt="BNU Farewell Souvenir"
+style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+
+<img src="/award_1.jpg" alt="University Appreciation"
+style="width:100%;height:230px;object-fit:cover;border-radius:10px;">
+
+</div>
 ## Teaching
 Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing
  
