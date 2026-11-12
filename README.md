@@ -48,8 +48,18 @@ Explore Final Year Projects (FYPs) developed and showcased by Computer Science s
 - **Project Showcase:** Student software projects and demonstrations.
 - **Technologies:** AI, Machine Learning, Web Development, Mobile Applications, and Software Engineering.
 - **Academic Contribution:** Project supervision, technical mentoring, and software development guidance.
+- **Alhamdulillah 225+ project displayed:** at ibn ul arbi building computer science, Required, Industrial zone, Software houses,             Freelancer, Self employed , BusinessMen
+-  **[View FYP Projects Showcase on Facebook](https://www.facebook.com/share/p/1BYSA6G8ck/)**
 
-🔗 **[View FYP Projects Showcase on Facebook](https://www.facebook.com/share/p/1BYSA6G8ck/)**
+## 🎤 Workshops & Seminars – Lahore Leads University
+Conducted academic workshops and seminars focused on practical software development and emerging technologies.
+- **Topic:** API Development in Python
+- **University:** Lahore Leads University
+- **Focus Areas:** Python Programming, REST APIs, Backend Development, and Software Engineering.
+- **Academic Contribution:** Technical knowledge sharing, hands-on learning, and professional development.
+
+🔗 **[View Seminar: API Development in Python](https://leads.edu.pk/seminar-on-api-development-in-python/)**
+🔗
 
 ## Teaching
 Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing
