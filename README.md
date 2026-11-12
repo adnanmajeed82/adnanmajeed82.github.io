@@ -1,5 +1,5 @@
 # Adnan Majeed
-**AI Engineer | Data Scientist | Software Developer**
+**Lecturer | Data Scientist | Software Developer**
 Lahore, Pakistan
 
 [LinkedIn](https://www.linkedin.com/in/adnan-majeed-55bb2b18/) · [GitHub](https://github.com/adnanmajeed82) · [Google Scholar](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9625-3648) · 
