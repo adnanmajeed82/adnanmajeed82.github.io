@@ -1,4 +1,4 @@
-  # Adnan Majeed
+## Adnan Majeed
 **Lecturer | Data Scientist | Software Developer**  
 Lahore, Pakistan
 
