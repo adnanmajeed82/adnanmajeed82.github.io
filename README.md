@@ -12,7 +12,7 @@ Computer Science professional focused on AI, machine learning, Generative AI, Py
 
 ## Experience
 - **Minhaj University Lahore** — Lecturer, Computer Science | Mar 2026–Oct 2026
-- **Lahore Leads University** — Lecturer, Computer Science Teaching | 2023–2025
+- **Lahore Leads University** — Lecturer, Computer Science  | 2023–2025
 - **Hunar Foundation** — Technical Training | 2022–2023
 - **Beaconhouse National University (BNU)** — Academic Teaching | 2012–2020
 
@@ -93,7 +93,7 @@ Professional achievements, academic contributions, university events and recogni
 </div>
 
 ## Teaching
-Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing
+Python · OOP · DBMS · Web Development · Django & REST APIs · Machine Learning · Deep Learning · Generative AI · Software Engineering · Cloud Computing, Deployed 225+ projects at Minhaj Uni, 3 practical workshops at Lahore Leads Uni, Research + Practical Labs at BNU.
 
 ## QuibitX | Software Solutions
 **Build. Automate. Scale.**
@@ -128,9 +128,6 @@ QuibitX delivers AI chatbots, web applications, backend APIs, and business autom
 
 ---
 
-## Image Zoom / Popup
-
-Click any award or portfolio image to enlarge it. Move the pointer outside the enlarged image to close the popup. You can also click the dark backdrop or press `Esc` to close it.
 
 <style>
 .portfolio-award-card {
