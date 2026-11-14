@@ -12,7 +12,7 @@ Computer Science professional focused on AI, machine learning, Generative AI, Py
 
 ## Experience
 - **Minhaj University Lahore** — Lecturer, Computer Science | Mar 2026–Oct 2026
-- **Lahore Leads University** — Computer Science Teaching | 2023–2025
+- **Lahore Leads University** — Lecturer, Computer Science Teaching | 2023–2025
 - **Hunar Foundation** — Technical Training | 2022–2023
 - **Beaconhouse National University (BNU)** — Academic Teaching | 2012–2020
 
