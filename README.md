@@ -1,5 +1,5 @@
 ## Adnan Majeed
-**Lecturer | Data Scientist | Software Developer**  
+**Senior Lecturer/Professor | Data Scientist | Software Developer**  
 Lahore, Pakistan
 
 [LinkedIn](https://www.linkedin.com/in/adnan-majeed-55bb2b18/) · [GitHub](https://github.com/adnanmajeed82) · [Google Scholar](https://scholar.google.com/citations?user=KprstfQAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9625-3648) · <a href="mailto:adnanmajeed82@gmail.com">✉ Contact Me</a>
