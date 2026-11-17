@@ -50,6 +50,7 @@ Explore Final Year Projects (FYPs) developed and showcased by Computer Science s
 - **Academic Contribution:** Project supervision, technical mentoring, and software development guidance.
 - **Alhamdulillah, 225+ projects displayed:** At Ibn-ul-Arabi Building, Computer Science Department. The showcase connected students with industry, software houses, freelancers, self-employed professionals, and business representatives.
 - **[View FYP Projects Showcase on Facebook](https://www.facebook.com/share/p/1BYSA6G8ck/)**
+- - **Official University News:** [Project Showcase Day 2026 – Minhaj University Lahore](https://www.mul.edu.pk/en/news-events/the-school-of-computer-science-minhaj-university-lahore-organized-project-showcase-day-2026-providing-students-with-an-opportunity)
 
 ## 🎤 Workshops & Seminars – Lahore Leads University
 Conducted academic workshops and seminars focused on practical software development and emerging technologies.
@@ -58,7 +59,6 @@ Conducted academic workshops and seminars focused on practical software developm
 - **University:** Lahore Leads University
 - **Focus Areas:** Python Programming, REST APIs, Backend Development, and Software Engineering.
 - **Academic Contribution:** Technical knowledge sharing, hands-on learning, and professional development.
-
 🔗 **[View Seminar: API Development in Python](https://leads.edu.pk/seminar-on-api-development-in-python/)**
 
 ## 🏆 Achievements & Awards – Beaconhouse National University
