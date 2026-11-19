@@ -91,6 +91,10 @@ Professional achievements, academic contributions, university events and recogni
     <p><strong>Minhaj University Lahore – Project Showcase Day</strong></p>
 </div>
   <div class="portfolio-award-card">
+    <img src="/ref.jpg" alt="Minhaj University Lahore Project Showcase Day">
+    <p><strong>Dr Gulzar HOD presenting Flower – Project Day</strong></p>
+</div>
+  <div class="portfolio-award-card">
     <img src="/award_1.jpg" alt="University appreciation">
     <p><strong>University Appreciation</strong></p>
   </div>
